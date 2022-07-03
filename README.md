@@ -8,3 +8,4 @@ This application acted as an internship task at PlaysDev.
 ## Technologies
 Project is created with:
 * Kotlin
+* MVVM
